@@ -1,1 +1,6 @@
 site_name: OpenSRC-Handhelds DOCS
+theme:
+  name: material
+nav:
+  - Home: index.md
+  - About: about.md
