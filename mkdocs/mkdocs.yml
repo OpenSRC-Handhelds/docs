@@ -1,6 +1,30 @@
 site_name: OpenSRC-Handhelds DOCS
+# Theme
 theme:
   name: material
+  features:
+    - navigation.sections
+  palette:
+    - scheme: default
+      primary: indigo
+      toggle:
+        icon: material/brightness-7
+        name: Switch to dark mode
+    - scheme: slate
+      primary: indigo
+      toggle:
+        icon: material/brightness-4
+        name: Switch to light mode
+
+# Markdown extensions
+markdown_extensions:
+  - attr_list
+  - toc:
+      permalink: true
+  - pymdownx.highlight
+  - pymdownx.superfences
+
 nav:
   - Home: index.md
   - About: about.md
+  - DIY: ./DIY/index.md
