@@ -15,7 +15,8 @@ theme:
       toggle:
         icon: material/brightness-4
         name: Switch to light mode
-
+  
+  favicon: assets/logo.png
 # Markdown extensions
 markdown_extensions:
   - attr_list
