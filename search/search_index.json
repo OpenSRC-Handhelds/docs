@@ -1,1 +1,1 @@
-{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to OpenSRC Handhelds","text":"<p>Docs not  ready come back later</p>"},{"location":"about/","title":"About Us","text":""}]}
+{"config":{"lang":["en"],"separator":"[\\s\\-]+","pipeline":["stopWordFilter"]},"docs":[{"location":"","title":"Welcome to OpenSRC Handhelds","text":"<p>Docs not  ready come back later</p>"},{"location":"about/","title":"About Us","text":""},{"location":"DIY/","title":"Test","text":""}]}
